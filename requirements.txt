@@ -22,7 +22,7 @@ funcsigs==0.4
 future==0.15.2
 idna==2.6
 itsdangerous==0.24
-jinja2==2.10
+jinja2==2.11.3
 josepy==1.0.1
 jsonpatch==1.10
 jsonpointer==1.9
